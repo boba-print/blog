@@ -18,7 +18,7 @@ module.exports = {
       options: {
         configPath: `src/config`,
         docsPath: `src/docs`,
-        githubUrl: `https://github.com/rocketseat/gatsby-themes`,
+        githubUrl: `https://github.com/boba-print/blog`,
         baseDir: `examples/gatsby-theme-docs`,
       },
     },
