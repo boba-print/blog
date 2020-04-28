@@ -2,10 +2,28 @@
 
 - label: 'Introduction'
   link: '/'
-- label: 'Getting started'
-  link: '/getting-started'
-- label: Usage
+- label: Release Note
   items:
+    - label: 'Web App'
+      link: '/releases/web'
+    - label: 'Kiosk'
+      link: '/releases/kiosk'
+    - label: 'Homepage'
+      link: '/releases/homepage'
+    - label: 'iOS App'
+      link: '/releases/ios'
+    - label: 'Android App'
+      link: 'releases/android'
+    - label: 'Connector'
+      link: 'releases/connector'
+    - label: 'Cloud Functions (FaaS)'
+      link: 'releases/functions'
+    - label: 'Conversion Server'
+      link: 'releases/conversion'
+- label: Gatsby Cofig
+  items:
+    - label: 'Getting started'
+      link: '/usage/getting-started'
     - label: 'Creating docs'
       link: '/usage/creating-docs'
     - label: 'Navigation'

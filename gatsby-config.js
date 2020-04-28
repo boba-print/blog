@@ -1,14 +1,14 @@
 module.exports = {
   siteMetadata: {
-    siteTitle: `@rocketseat/gatsby-theme-docs`,
-    defaultTitle: `@rocketseat/gatsby-theme-docs`,
-    siteTitleShort: `gatsby-theme-docs`,
-    siteDescription: `Out of the box Gatsby Theme for creating documentation websites easily and quickly`,
-    siteUrl: `https://rocketdocs.netlify.com`,
-    siteAuthor: `@rocketseat`,
+    siteTitle: `Boba Dev Team`,
+    defaultTitle: `Boba Dev Team`,
+    siteTitleShort: `Boba Dev`,
+    siteDescription: `Boba Dev Team Tech Blog`,
+    siteUrl: `https://boba-print.github.io/`,
+    siteAuthor: `@KYUUUW`,
     siteImage: `/banner.png`,
-    siteLanguage: `en`,
-    themeColor: `#7159c1`,
+    siteLanguage: `kr`,
+    themeColor: `#0257AC`,
     basePath: `/`,
     footer: `Theme by Rocketseat`,
   },
@@ -48,4 +48,4 @@ module.exports = {
     },
     `gatsby-plugin-offline`,
   ],
-};
+}
