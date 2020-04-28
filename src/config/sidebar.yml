@@ -2,7 +2,15 @@
 
 - label: 'Introduction'
   link: '/'
-- label: Release Note
+- label: 'About Boba'
+  items:
+  - label: 'Member'
+    link: '/about/member'
+  - label: 'Contribution'
+    link: '/about/contribution'
+  - label: 'Recruiting'
+    link: '/about/recruiting'
+- label: 'Release Note'
   items:
     - label: 'Web App'
       link: '/releases/web'
