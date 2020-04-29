@@ -28,13 +28,3 @@
       link: 'releases/functions'
     - label: 'Conversion Server'
       link: 'releases/conversion'
-- label: Gatsby Cofig
-  items:
-    - label: 'Getting started'
-      link: '/usage/getting-started'
-    - label: 'Creating docs'
-      link: '/usage/creating-docs'
-    - label: 'Navigation'
-      link: '/usage/navigation'
-    - label: 'Shadowing'
-      link: '/usage/shadowing'
