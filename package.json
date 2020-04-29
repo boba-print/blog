@@ -29,6 +29,6 @@
     "start": "gatsby develop",
     "serve": "gatsby serve",
     "clean": "gatsby clean",
-    "deploy": "gatsby build && git add . && git commit -m '🚀 deploy gh-page' && git subtree --prefix public push gh-pages master"
+    "deploy": "gatsby build && git add . && gitmoji -i && git commit -m '🚀 deploy gh-page' && git subtree --prefix public push gh-pages master && gitmoji -r"
   }
 }
