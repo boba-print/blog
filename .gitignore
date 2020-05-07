@@ -67,5 +67,8 @@ yarn-error.log
 # Yarn Integrity file
 .yarn-integrity
 
+# build
+public/
+
 # exception
 !node_modules/@rocketseat/gatsby-theme-docs/src/styles/theme.js
