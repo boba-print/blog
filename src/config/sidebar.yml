@@ -8,8 +8,8 @@
     link: '/about/member'
   - label: 'Contribution'
     link: '/about/contribution'
-  - label: 'Recruiting'
-    link: '/about/recruiting'
+  - label: '2020 하계 인턴 모집'
+    link: '/about/20-summer-internship'
 - label: 'Release Note'
   items:
     - label: 'Web App'
